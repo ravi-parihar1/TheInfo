@@ -9,8 +9,8 @@
 
 <channel>
 	<title>scholarship &#8211; TheInfo</title>
-	<atom:link href="/https://ravi-parihar1.github.io/TheInfo/tag/scholarship/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://ravi-parihar1.github.io/TheInfo</link>
+	<atom:link href="https://ravi-parihar1.github.io/TheInfo/tag/scholarship/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ravi-parihar1.github.io/TheInfo</link>
 	<description>the helper..</description>
 	<lastBuildDate>Mon, 27 Dec 2021 05:19:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Scholarship by Audi !!</title>
-		<link>/https://ravi-parihar1.github.io/TheInfo/2021/12/27/scholarship-by-audi/</link>
-					<comments>/https://ravi-parihar1.github.io/TheInfo/2021/12/27/scholarship-by-audi/#respond</comments>
+		<link>https://ravi-parihar1.github.io/TheInfo/2021/12/27/scholarship-by-audi/</link>
+					<comments>https://ravi-parihar1.github.io/TheInfo/2021/12/27/scholarship-by-audi/#respond</comments>
 		
 		<dc:creator><![CDATA[ravi]]></dc:creator>
 		<pubDate>Mon, 27 Dec 2021 05:17:13 +0000</pubDate>
 				<category><![CDATA[scholarship]]></category>
 		<category><![CDATA[audi]]></category>
 		<category><![CDATA[audi scholarship]]></category>
-		<guid isPermaLink="false">/https://ravi-parihar1.github.io/TheInfo/?p=66</guid>
+		<guid isPermaLink="false">https://ravi-parihar1.github.io/TheInfo/?p=66</guid>
 
 					<description><![CDATA[Hey Students! Are you someone looking for scholarships for higher studies? If yes then today’s post is for]]></description>
 										<content:encoded><![CDATA[
@@ -80,7 +80,7 @@
 <p>To apply for this scholarship&nbsp;<a rel="noreferrer noopener" href="https://www.oneyoungworld.com/scholarships/audi/2022" target="_blank"><strong>CLICK HERE</strong></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://ravi-parihar1.github.io/TheInfo/2021/12/27/scholarship-by-audi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ravi-parihar1.github.io/TheInfo/2021/12/27/scholarship-by-audi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

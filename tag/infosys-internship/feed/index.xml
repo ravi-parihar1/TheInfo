@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Infosys Internship &#8211; TheInfo</title>
-	<atom:link href="/https://ravi-parihar1.github.io/TheInfo/tag/infosys-internship/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://ravi-parihar1.github.io/TheInfo</link>
+	<atom:link href="https://ravi-parihar1.github.io/TheInfo/tag/infosys-internship/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ravi-parihar1.github.io/TheInfo</link>
 	<description>the helper..</description>
 	<lastBuildDate>Mon, 27 Dec 2021 05:42:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>INFOSYS INTERNSHIP</title>
-		<link>/https://ravi-parihar1.github.io/TheInfo/2021/11/28/hello-world/</link>
-					<comments>/https://ravi-parihar1.github.io/TheInfo/2021/11/28/hello-world/#comments</comments>
+		<link>https://ravi-parihar1.github.io/TheInfo/2021/11/28/hello-world/</link>
+					<comments>https://ravi-parihar1.github.io/TheInfo/2021/11/28/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[ravi]]></dc:creator>
 		<pubDate>Sun, 28 Nov 2021 16:34:31 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Infosys Springboard Project Based Internship]]></category>
 		<category><![CDATA[intern]]></category>
 		<category><![CDATA[job]]></category>
-		<guid isPermaLink="false">/https://ravi-parihar1.github.io/TheInfo/?p=1</guid>
+		<guid isPermaLink="false">https://ravi-parihar1.github.io/TheInfo/?p=1</guid>
 
 					<description><![CDATA[Hey learners! Are you looking for some project based Internship then Infosys Springboard is for you. Infosys Springboard]]></description>
 										<content:encoded><![CDATA[
@@ -231,7 +231,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://ravi-parihar1.github.io/TheInfo/2021/11/28/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ravi-parihar1.github.io/TheInfo/2021/11/28/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
