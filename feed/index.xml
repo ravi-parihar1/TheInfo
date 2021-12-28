@@ -12,7 +12,7 @@
 	<atom:link href="https://ravi-parihar1.github.io/TheInfo/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ravi-parihar1.github.io/TheInfo</link>
 	<description></description>
-	<lastBuildDate>Mon, 27 Dec 2021 15:16:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Dec 2021 06:00:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,214 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
+		<title>JavaScript crash course</title>
+		<link>https://ravi-parihar1.github.io/TheInfo/2021/12/28/javascript-crash-course/</link>
+					<comments>https://ravi-parihar1.github.io/TheInfo/2021/12/28/javascript-crash-course/#respond</comments>
+		
+		<dc:creator><![CDATA[ravi]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 05:59:24 +0000</pubDate>
+				<category><![CDATA[course]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[js]]></category>
+		<category><![CDATA[udemy]]></category>
+		<category><![CDATA[webcourse]]></category>
+		<category><![CDATA[website]]></category>
+		<guid isPermaLink="false">https://ravi-parihar1.github.io/TheInfo/?p=114</guid>
+
+					<description><![CDATA[Requirement No programming knowledge is required. A computer will be useful to take this course! Description Are you]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Requirement</strong></p>
+
+
+
+<ul><li>No programming knowledge is required. A computer will be useful to take this course!</li></ul>
+
+
+
+<h2>Description</h2>
+
+
+
+<p>Are you looking for a way to learn to code but you aren’t sure how or where to start? Maybe you have started learning but feel overwhelmed by the amount of content out there? This course will teach you all the fundamentals of the JavaScript programming language that a beginner should know and it will do so through short but concise examples.</p>
+
+
+
+<p>JavaScript is a great language to learn, It is a fun language but also extremely in demand. By taking this course you will kick start your learning process and be on the path to becoming the developer you want to be.</p>
+
+
+
+<p>In this course you will be introduced to the very basics of the JavaScript language and the primitive data types, We will then look at Objects, Arrays and functions. You will also be introduced to conditionals and logic. After taking this course you will have a good foundation of all the necessary topics so that you can go off on your own and start to create your own programs.</p>
+
+
+
+<p>Whether you are new to programming, New to JavaScript or you just want to build upon some existing knowledge this course will help provide you with a toolbox to becoming a better developer.</p>
+
+
+
+<h2>Who this course is for:</h2>
+
+
+
+<ul><li>Anyone who wants to learn about programming and how to use the JavaScript language</li></ul>
+
+
+
+<p>click here : <a rel="noreferrer noopener" href="https://ern.li/OP/iq6kxosl014" target="_blank">Enroll Now</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ravi-parihar1.github.io/TheInfo/2021/12/28/javascript-crash-course/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Getting started with HTML and CSS in 60 minutes</title>
+		<link>https://ravi-parihar1.github.io/TheInfo/2021/12/28/getting-started-with-html-and-css-in-60-minutes/</link>
+					<comments>https://ravi-parihar1.github.io/TheInfo/2021/12/28/getting-started-with-html-and-css-in-60-minutes/#respond</comments>
+		
+		<dc:creator><![CDATA[ravi]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 05:37:15 +0000</pubDate>
+				<category><![CDATA[course]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[udemy]]></category>
+		<category><![CDATA[website]]></category>
+		<guid isPermaLink="false">https://ravi-parihar1.github.io/TheInfo/?p=102</guid>
+
+					<description><![CDATA[Requirement Understand english Description Welcome to this tutorial. My name is Jordan Smith and I’ve 8 years of]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Requirement</strong></p>
+
+
+
+<ul><li>Understand english</li></ul>
+
+
+
+<h2>Description</h2>
+
+
+
+<p>Welcome to this tutorial. My name is Jordan Smith and I’ve 8 years of programming experience in HTML and CSS. I will learn you everything I wish I knew when I first started programming HTML and CSS.</p>
+
+
+
+<p>Once you’ve finished this tutorial. You will know every core part of HTML and CSS and you’ve also made your very own portfolio website.</p>
+
+
+
+<p>All in all a tutorial to get a good overall understanding about HTML and CSS. After this you will have the knowledge required to create websites on your own.</p>
+
+
+
+<p>So if you’re new to HTML and CSS or want to learn more about HTML and CSS this tutorial is for you. We will raise your HTML and CSS skills to the next level!</p>
+
+
+
+<p>Hopefully see you in the tutorial, good luck!</p>
+
+
+
+<p>Regards,</p>
+
+
+
+<p>Jordan Smith</p>
+
+
+
+<h2>Who this course is for:</h2>
+
+
+
+<ul><li>People who have 0 knowledge about HTML and CSS</li></ul>
+
+
+
+<p>Show less<a href="https://ern.li/OP/z5kxpkcmaa" target="_blank" rel="noreferrer noopener">Enroll Now</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ravi-parihar1.github.io/TheInfo/2021/12/28/getting-started-with-html-and-css-in-60-minutes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tetra’s Creative Guide to Software Testing and Exploration</title>
+		<link>https://ravi-parihar1.github.io/TheInfo/2021/12/28/tetras-creative-guide-to-software-testing-and-exploration/</link>
+					<comments>https://ravi-parihar1.github.io/TheInfo/2021/12/28/tetras-creative-guide-to-software-testing-and-exploration/#respond</comments>
+		
+		<dc:creator><![CDATA[ravi]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 05:35:02 +0000</pubDate>
+				<category><![CDATA[course]]></category>
+		<category><![CDATA[sofware]]></category>
+		<category><![CDATA[udemy]]></category>
+		<guid isPermaLink="false">https://ravi-parihar1.github.io/TheInfo/?p=99</guid>
+
+					<description><![CDATA[Requirement Have an open-mind to learn new things or see testing in a different perspective. An interest in]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Requirement</strong></p>
+
+
+
+<ul><li>Have an open-mind to learn new things or see testing in a different perspective.</li><li>An interest in software testing or software development.</li><li>A passion for embracing automation and a quality first mindset.</li></ul>
+
+
+
+<h2>Description</h2>
+
+
+
+<p><strong>TETRA’s (The Entrance To Really Awesome) Creative Guide to Software Testing &amp;&nbsp;Exploration starts here!</strong></p>
+
+
+
+<p><strong>Are you a software testing &amp; QA enthusiast? Or a software developer who wants to empower their testing skills? Or none of the above but just want to thrive a career in the field of software engineering &amp; technology?</strong></p>
+
+
+
+<p>I believe that thriving in a career in software technology, development, and testing requires&nbsp;<strong>strong testing skills.</strong></p>
+
+
+
+<p><strong>By the end of this course, you will be a much stronger software engineer by honing your quality mindset throughout your working career.</strong></p>
+
+
+
+<p><strong>This is not another boring software testing guide.</strong></p>
+
+
+
+<p>It eliminates much of the dry material in a traditional education or certification for software testing. Your instructor,<strong>&nbsp;Tetra Quality&nbsp;</strong>follows an&nbsp;<strong>unconventional&nbsp;</strong>approach to teaching software testing and QA by focusing on improving your quality mindset through teaching important testing principles.</p>
+
+
+
+<p>Learn how to become a strong software tester and team member by learning about&nbsp;<strong>different industry experts</strong>&nbsp;perspectives in the field of software engineering, the 3 tenets of quality, core values of testing, what is exploratory testing, why we do it, and finally, best practices and QA techniques that help guide your software testing to help your organization achieve strong quality software.</p>
+
+
+
+<p><strong>Thanks for all the fish!</strong></p>
+
+
+
+<h2>Who this course is for:</h2>
+
+
+
+<ul><li>Anyone with an interest in learning the basics of software testing</li><li>Software Developers, Engineers, and Testers</li><li>Stakeholders in Management, Product, Sales, and Marketing that want to conceptualize, plan, release, and sell high quality products</li></ul>
+
+
+
+<p>click here: <a rel="noreferrer noopener" href="https://ern.li/OP/ipakxpkojhj" target="_blank">Enroll Now</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ravi-parihar1.github.io/TheInfo/2021/12/28/tetras-creative-guide-to-software-testing-and-exploration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>AWS Solutions Architect Virtual Experience Program</title>
 		<link>https://ravi-parihar1.github.io/TheInfo/2021/12/27/about-aws-solutions-architect-virtual-experience-program/</link>
 					<comments>https://ravi-parihar1.github.io/TheInfo/2021/12/27/about-aws-solutions-architect-virtual-experience-program/#respond</comments>

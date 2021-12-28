@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>html &#8211; TheInfo</title>
+	<atom:link href="https://ravi-parihar1.github.io/TheInfo/tag/html/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ravi-parihar1.github.io/TheInfo</link>
+	<description></description>
+	<lastBuildDate>Tue, 28 Dec 2021 05:37:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Getting started with HTML and CSS in 60 minutes</title>
+		<link>https://ravi-parihar1.github.io/TheInfo/2021/12/28/getting-started-with-html-and-css-in-60-minutes/</link>
+					<comments>https://ravi-parihar1.github.io/TheInfo/2021/12/28/getting-started-with-html-and-css-in-60-minutes/#respond</comments>
+		
+		<dc:creator><![CDATA[ravi]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 05:37:15 +0000</pubDate>
+				<category><![CDATA[course]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[udemy]]></category>
+		<category><![CDATA[website]]></category>
+		<guid isPermaLink="false">https://ravi-parihar1.github.io/TheInfo/?p=102</guid>
+
+					<description><![CDATA[Requirement Understand english Description Welcome to this tutorial. My name is Jordan Smith and I’ve 8 years of]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Requirement</strong></p>
+
+
+
+<ul><li>Understand english</li></ul>
+
+
+
+<h2>Description</h2>
+
+
+
+<p>Welcome to this tutorial. My name is Jordan Smith and I’ve 8 years of programming experience in HTML and CSS. I will learn you everything I wish I knew when I first started programming HTML and CSS.</p>
+
+
+
+<p>Once you’ve finished this tutorial. You will know every core part of HTML and CSS and you’ve also made your very own portfolio website.</p>
+
+
+
+<p>All in all a tutorial to get a good overall understanding about HTML and CSS. After this you will have the knowledge required to create websites on your own.</p>
+
+
+
+<p>So if you’re new to HTML and CSS or want to learn more about HTML and CSS this tutorial is for you. We will raise your HTML and CSS skills to the next level!</p>
+
+
+
+<p>Hopefully see you in the tutorial, good luck!</p>
+
+
+
+<p>Regards,</p>
+
+
+
+<p>Jordan Smith</p>
+
+
+
+<h2>Who this course is for:</h2>
+
+
+
+<ul><li>People who have 0 knowledge about HTML and CSS</li></ul>
+
+
+
+<p>Show less<a href="https://ern.li/OP/z5kxpkcmaa" target="_blank" rel="noreferrer noopener">Enroll Now</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ravi-parihar1.github.io/TheInfo/2021/12/28/getting-started-with-html-and-css-in-60-minutes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
