@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 	<item>
 		<title>AWS Solutions Architect Virtual Experience Program</title>
 		<link>https://ravi-parihar1.github.io/TheInfo/2021/12/27/about-aws-solutions-architect-virtual-experience-program/</link>
@@ -293,7 +293,7 @@
 
 
 
-<ul class="wp-block-social-links"></ul>
+<ul class="wp-container-621081674be4c wp-block-social-links"></ul>
 
 
 
